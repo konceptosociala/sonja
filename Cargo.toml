@@ -1,0 +1,17 @@
+[package]
+name = "sonja"
+version = "0.0.1"
+authors = ["Koncepto Sociala"]
+edition = "2021"
+
+license = "Unlicense"
+description = "Particle systems library for "
+homepage = "https://konceptosociala.eu.org/sonja"
+documentation = "https://docs.rs/sonja"
+repository = "https://github.com/konceptosociala/sonja"
+readme = "README.md"
+
+keywords = ["gamedev", "graphics", "despero", "particles", "particle-systems"]
+categories = ["game-development", "graphics", "rendering", "visualization"]
+
+[dependencies]
